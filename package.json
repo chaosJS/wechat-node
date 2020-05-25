@@ -1,0 +1,12 @@
+{
+  "name": "wechat-node",
+  "version": "1.0.0",
+  "description": "https://www.bilibili.com/video/av37884113/ 微信公众号开发",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
