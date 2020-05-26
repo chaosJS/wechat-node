@@ -1,6 +1,6 @@
 ### 新坑
 
-https://www.bilibili.com/video/av37884113/ 微信公众号开发
+https://www.bilibili.com/video/av35043909/?p=4 微信公众号开发 换资源了
 
 1. 微信号种类特点
 
@@ -18,3 +18,7 @@ https://www.bilibili.com/video/av37884113/ 微信公众号开发
    3. 企业号（大）
 
 2. 本地代理环境的搭建，加密认证
+
+3. 公众号 7 种消息和 6 种回复
+
+4. access_token 的管理
